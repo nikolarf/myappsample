@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-	<h1>Contact12</h1>
+	<h1>Contact123</h1>
 	<br>
 	<div class="container">
 	<div class="row">
